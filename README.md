@@ -1,2 +1,3 @@
 # SJTU-CS489
-Reinforcement Learning course project.
+> SJTU Reinforcement Learning course project.
+
